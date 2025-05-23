@@ -1,4 +1,4 @@
-# TinDog-Project-
+# TinDog-Project
 
 🐶 TinDog
 TinDog is a responsive landing page inspired by the concept of Tinder — but for dogs. This project is a **full reproduction** of the original project from Dr. Angela Yu’s 2023 Complete Web Development Bootcamp.
